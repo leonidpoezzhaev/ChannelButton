@@ -13,4 +13,4 @@
 
 "Набивание руки" и экспериментирование с Sqlite3 и Telebot
 
-![Uploading image.png…]()
+<img width="1267" height="544" alt="image" src="https://github.com/user-attachments/assets/7cbfc170-4896-4318-a71e-b792e98c76ee" />
